@@ -1,10 +1,10 @@
 ---
 
 ## Tools & Technologies
-- **Power BI**: Interactive dashboard creation
-- **Python (Jupyter Notebook)**: Data cleaning, preprocessing, and analysis
-- **Libraries Used**: pandas, numpy, matplotlib, seaborn 
-- **Git & GitHub**: Version control
+- Power BI: Interactive dashboard creation
+- Python (Jupyter Notebook): Data cleaning, preprocessing, and analysis
+- Libraries Used: pandas, numpy, matplotlib, seaborn 
+- Git & GitHub: Version control
 
 ---
 
