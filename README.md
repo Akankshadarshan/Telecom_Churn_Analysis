@@ -27,7 +27,7 @@
 - **Monthly Charges**  
 - **Senior Citizen**  
 - **Payment Method** (Electronic Check, Bank Transfer, Credit Card, etc.)  
-- **Tenure Groups** (0–12, 12–24, 24–48, 48+ months)  
+- **Tenure Groups** 
 
 This helped identify **high-risk customer segments** and patterns in churn behavior.
 
