@@ -39,7 +39,8 @@ This helped identify **high-risk customer segments** and patterns in churn behav
 - Ability to filter and drill down into specific customer segments for actionable insights.
 
 ### Example Screenshot
-![Dashboard Screenshot](https://drive.google.com/file/d/1SE9lKsIJdHxLuZBuGa68B-nt_wLGflOt/view?usp=sharing)
+![Dashboard Screenshot](<img width="1458" height="823" alt="Screenshot (82)_edited" src="https://github.com/user-attachments/assets/386589a7-71e8-4be9-9710-f232c5f5c532" />
+)
 
 
 
